@@ -1,4 +1,4 @@
-[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/plus3it/netbanner-formula?branch=master&svg=true)](https://ci.appveyor.com/project/plus3it/netbanner-formula)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/MetroStar/netbanner-formula?branch=master&svg=true)](https://ci.appveyor.com/project/MetroStar/netbanner-formula)
 
 # netbanner-formula
 
